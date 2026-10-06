@@ -1,0 +1,13 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2101 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  example_win32_directx11.vcxproj -> D:\nowy haxior\index\example_win32_directx11 — kopia\Release\example_win32_directx11.exe

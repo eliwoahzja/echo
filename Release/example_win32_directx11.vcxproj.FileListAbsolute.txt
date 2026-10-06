@@ -1,0 +1,4 @@
+D:\imgui-1.92.8\examples\example_win32_directx11\Release\example_win32_directx11.exe
+D:\imgui-1.92.8\examples\example_win32_directx11 — kopia\Release\example_win32_directx11.exe
+D:\nowy haxior\index\example_win32_directx11 — kopia\Release\example_win32_directx11.exe
+D:\nowy haxior\index\my imgui\Release\example_win32_directx11.exe
